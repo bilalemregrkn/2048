@@ -1,0 +1,58 @@
+# Unity
+# ========================
+Temp/
+Temp.meta
+/[oO]bj/
+UnityGenerated/
+Library/
+[bB]uild/
+[bB]uilds/
+[lL]ogs/
+UserSettings/
+Screenshots/
+Assets/BuildReports/*
+Assets/BuildReports.meta
+Assets/StreamingAssets/
+Assets/StreamingAssets.meta
+.gradle/
+
+# Temporary Files
+# ========================
+Assets/[tT]emp/
+Assets/[tT]emp.meta
+Assets/AddressableAssetsData/addressables_content_state.bin
+Assets/AddressableAssetsData/addressables_content_state.bin.meta
+
+# IDE
+# ========================
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.DotSettings
+storage.ide
+.vs/
+.idea/
+Assets/Plugins/Editor/JetBrains.meta
+Assets/Plugins/Editor/JetBrains/
+
+# OS
+# ========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+Assets/dimmpixeye/ProjectPref/Editor/CodeTemplates/Settings/TemplateKeys.txt
+/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/AOTGenerationConfig.asset
+/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/AOTGenerationConfig.asset.meta
+remote_config_data
